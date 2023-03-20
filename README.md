@@ -24,8 +24,6 @@
  <a href="https://discord.gg/rAs3KCYNJn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:eduardobpr@terra.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-benvindo-puca-ribeiro-64868355" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/eduardobpr/eduardobpr/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **eduardobpr/eduardobpr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
