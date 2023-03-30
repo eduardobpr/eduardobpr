@@ -1,10 +1,10 @@
 ### Olá Sou Eduardo B P Ribeiro 👋
 
- <!-- <div>
+ <div>
   <a href="https://github.com/eduardobpr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardobpr&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobpr&layout=compact"/>
-</div> -->
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="eduardo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <!-- <img align="center" alt="eduardo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
